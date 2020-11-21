@@ -2,6 +2,8 @@
 # Truck allocation Problem
 
 
+![Status](https://github.com/paulorodriguesxv/truck-allocation-problem/workflows/Python%20application/badge.svg)
+
 It's requires python 3.7.
 
 This cargo x trucks problem belongs to a quadratic assignment problem
