@@ -1,0 +1,2 @@
+class DataNotLoadedError(Exception):
+    pass
